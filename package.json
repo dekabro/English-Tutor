@@ -1,0 +1,16 @@
+{
+  "name": "god-level-telegram-ai-bot",
+  "version": "1.0.0",
+  "description": "Ultra-fast Telegram AI bot using Groq/OpenAI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bikash Deka",
+  "dependencies": {
+    "axios": "latest",
+    "express": "latest",
+    "telegraf": "latest"
+  }
+}
